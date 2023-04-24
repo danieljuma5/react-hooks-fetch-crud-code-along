@@ -19,12 +19,6 @@
       "isInCart": false
     },
     {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 5,
       "name": "Swiss Cheese",
       "category": "Dairy",
@@ -35,6 +29,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "just",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Butter",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
